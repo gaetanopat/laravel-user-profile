@@ -23,6 +23,7 @@
         </p>
       </div>
     </div>
+    <a href="{{ route('home') }}" class="btn btn-primary mt-3">Torna alla home</a>
   </div>
 
   <div class="modal fade" id="uploadImageForm" tabindex="-1" role="dialog" aria-hidden="true">

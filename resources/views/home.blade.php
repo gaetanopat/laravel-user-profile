@@ -16,7 +16,9 @@
 
                     You are logged in!
                 </div>
-            </div>
+              </div>
+
+              <a href="{{ route('admin.profile') }}" class="btn btn-primary mt-3">Vai al tuo profilo</a>
         </div>
     </div>
 </div>
